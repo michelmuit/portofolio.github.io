@@ -1,0 +1,57 @@
+nav {
+background-color: darkgray;
+
+background-image: url(../css/images/logo.png);
+
+}
+nav ul {
+margin: 0px;
+padding: 0px;
+overflow: hidden;
+list-style-type: none;
+
+}
+nav ul li {
+
+margin-left: 10px;
+
+}
+nav ul li a {
+display: block;
+padding: 8px;
+background-color: gray;
+float: right; 	
+display: block;
+padding-right: 50px;
+border-style: solid;
+border-color: darkgray;
+display: inline-block;
+
+}
+
+
+a{display: block;
+}
+
+body{
+	font-family: helvetica;
+	font-size: 13px;
+	color: blue;
+}
+
+
+
+p{
+	text-align:  center;
+	font-size: 15px;
+	font-style: bold;
+}
+
+h1 {
+	text-align: center;
+
+}
+
+html {
+	background-color: gray;
+}
